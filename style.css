@@ -1,0 +1,50 @@
+/* Core Style */
+h1 {
+    text-align: center;
+    background: #333333;
+    color: #eee;
+    font-size: 28px;
+    padding: 10px;
+}
+h2 {
+    font-size: 24px;
+}
+body {
+    background: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+}
+
+.container {
+    margin: 0 auto;
+}
+.main-bio,
+.bio-image {
+    float: left;
+}
+.contact-info {
+    float: right;
+    margin: 0 250px;
+}
+.main-bio {
+    width: 600px;
+}
+
+.bio-body {
+    padding: 10px;
+    margin: 0 0 0 30px;
+}
+.bio-image {
+    margin: 0 0 0 40px;
+    
+}
+
+#gl-header {
+    padding: 0 0 0 40px;
+}
+a {
+    color: #d21034;
+}
